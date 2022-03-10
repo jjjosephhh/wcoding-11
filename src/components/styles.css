@@ -1,0 +1,22 @@
+.product-card {
+    width: 50%;
+    height: 600px;
+    overflow: hidden;
+    float: left;
+    margin: 8px 0;
+}
+
+.my-navbar {
+    z-index: 2;
+}
+
+.shopping-cart-container {
+    width: 50vw;
+    height: 100vh;
+    overflow-y: scroll;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 3;
+}
